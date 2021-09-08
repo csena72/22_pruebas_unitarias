@@ -1,0 +1,25 @@
+{
+  "name": "22_pruebas_unitarias",
+  "version": "1.0.0",
+  "description": "## Consigna:",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csena72/22_pruebas_unitarias.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csena72/22_pruebas_unitarias/issues"
+  },
+  "homepage": "https://github.com/csena72/22_pruebas_unitarias#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
